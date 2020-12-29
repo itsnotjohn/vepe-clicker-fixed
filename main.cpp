@@ -1,6 +1,5 @@
 #include <Windows.h>
 #include <iostream>
-#include <ctime>
 
 float delays[32]{ };
 bool toggled = false;
