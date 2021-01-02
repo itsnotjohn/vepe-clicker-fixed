@@ -1,6 +1,6 @@
 # vepe-clicker-fixed
 
-This is Vepes source working perfectly.
+This is Vepe source working perfectly.
 The mistakes were basic, but in the same way, there it is, use it wisely.
 
 Credits:
